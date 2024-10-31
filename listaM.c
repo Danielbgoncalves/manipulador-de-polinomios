@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include  <stdio.h>
 #include   <math.h>
-
+   
 /*Aqui, o Termo funciona como o "No" da lista de polinômios,
 recebendo os dados de cada X e apontando para o proximo termo*/
 typedef struct termo { 
